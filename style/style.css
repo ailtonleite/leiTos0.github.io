@@ -13,7 +13,7 @@ font-family: arial, helvetica, sans-serif;
 font-size: 12px;
 }
 
-.menu{
+.menu {
 padding-top: 10px;
 position: fixed;
 top: 0;
@@ -23,14 +23,13 @@ height: 50px;
 	background-image: linear-gradient(to bottom right, white, rgb(33, 133, 124), yellow);
 list-style:none;
 float: left;
-padding-left: 35%;
+padding-left: 10%;
 }
 
 .menu li{
 
 position:relative;
 float:left;
-border-right:1px solid #c0c0c0;
 }
 
 *{
